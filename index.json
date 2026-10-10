@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "issue-manager",
+  "versions": [
+    {
+      "commit": "0863a9cf6ea59164b173655b37bffafadd33ff95",
+      "tag": "",
+      "parsed_at": "2026-10-10T04:22:15.651204+00:00"
+    }
+  ]
+}
